@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/data/coomo3.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/gani.json" charset="GBK" />
     <file url="file://$PROJECT_DIR$/data/log.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/data/meidi.json" charset="GBK" />
     <file url="file://$PROJECT_DIR$/data/mona.json" charset="GBK" />
