@@ -1,0 +1,1 @@
+#!/usr/bin/env python# -*- coding: utf-8 -*-# Created by spider3 on 2018/3/19# Copyright (c) 2018 spider3. All rights reserved."""富安娜""""""http://maps.fuanna.com/index.aspx"""def main():    passif __name__ == '__main__':    main()
