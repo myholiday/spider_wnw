@@ -5,38 +5,6 @@
     <list id="d5808a2e-9d23-4853-b5b9-c64ec7e17982" name="Revert: 修复add_detail是否从官网获取bug，完成&quot;" comment="Revert: 修复add_detail是否从官网获取bug，完成&quot;" />
     <list default="true" id="8a07905b-ccdd-4546-ae6b-c57ba4e81f81" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/spider/new_amap_spider.py" afterPath="$PROJECT_DIR$/spider/new_amap_spider.py" />
-      <change beforePath="$PROJECT_DIR$/tt/983427438691708929.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/983662868540346371.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/983662953894436864.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/983698762760704000.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/983764328443797504.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/983774270886236161.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/983824424532144128.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984015782521835521.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984017894240604161.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984020136255541248.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984022625440747520.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984032798821568513.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984053549742067712.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984066131303583746.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984095671262367744.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984103828852064257.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984155907251687424.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984204373105442816.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984231791103012864.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984371491277099010.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984374422587965440.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984379918682394624.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984471933050937344.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984472778035417088.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984479558765350912.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984499517805486082.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984507430909308929.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/984631073865953280.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/MicrosoftWebDriver.exe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tt/newest_id.txt" afterPath="$PROJECT_DIR$/tt/newest_id.txt" />
-      <change beforePath="$PROJECT_DIR$/tt/twitter_spider.py" afterPath="$PROJECT_DIR$/tt/twitter_spider.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -125,7 +93,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="new_amap_spider.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="new_amap_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spider/new_amap_spider.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="535">
@@ -138,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twitter_spider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twitter_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tt/twitter_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
+            <state relative-caret-position="4833">
               <caret line="276" column="0" lean-forward="true" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
               <folding>
                 <element signature="e#3975#4034#0" expanded="false" />
@@ -511,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524109135831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="多处爬取bug；批量储存MongoDB数据">
+      <created>1524109190948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524109190948</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -525,11 +500,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="302" y="72" width="1519" height="943" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4257642" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3930131" sideWeight="0.50533617" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5691158" sideWeight="0.49786553" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5691158" sideWeight="0.49786553" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24533" sideWeight="0.4948718" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40473226" sideWeight="0.49466383" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29166666" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -898,20 +874,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/new_amap_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="435" column="26" lean-forward="false" selection-start-line="435" selection-start-column="26" selection-end-line="435" selection-end-column="26" />
-          <folding>
-            <element signature="e#456#31827#0" expanded="false" />
-            <element signature="e#33084#33423#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tt/twitter_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="4833">
           <caret line="276" column="0" lean-forward="true" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
           <folding>
             <element signature="e#3975#4034#0" expanded="false" />
@@ -919,6 +884,17 @@
             <element signature="e#6997#7030#0" expanded="false" />
             <element signature="e#7884#8903#0" expanded="false" />
             <element signature="e#7884#7889#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/new_amap_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="435" column="26" lean-forward="false" selection-start-line="435" selection-start-column="26" selection-end-line="435" selection-end-column="26" />
+          <folding>
+            <element signature="e#456#31827#0" expanded="false" />
+            <element signature="e#33084#33423#0" expanded="false" />
           </folding>
         </state>
       </provider>
