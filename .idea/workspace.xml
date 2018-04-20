@@ -4,7 +4,12 @@
     <list id="343f39ad-9954-4fa3-a6b7-1260240727c9" name="Revert: 完成创维原始数据爬取，记得修改todo" comment="取消log日志，添加排除关键词功能" />
     <list id="d5808a2e-9d23-4853-b5b9-c64ec7e17982" name="Revert: 修复add_detail是否从官网获取bug，完成&quot;" comment="Revert: 修复add_detail是否从官网获取bug，完成&quot;" />
     <list default="true" id="8a07905b-ccdd-4546-ae6b-c57ba4e81f81" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/requesthtml.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/data/log.txt" afterPath="$PROJECT_DIR$/data/log.txt" />
+      <change beforePath="$PROJECT_DIR$/spider/new_amap_spider.py" afterPath="$PROJECT_DIR$/spider/new_amap_spider.py" />
+      <change beforePath="$PROJECT_DIR$/tt/newest_id.txt" afterPath="$PROJECT_DIR$/tt/newest_id.txt" />
+      <change beforePath="$PROJECT_DIR$/tt/twitter_spider.py" afterPath="$PROJECT_DIR$/tt/twitter_spider.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +72,8 @@
     <SUITE FILE_PATH="coverage/spider_wnw$get_baidu_coord.coverage" NAME="get_baidu_coord Coverage Results" MODIFIED="1522736118284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/spider_wnw$linshi.coverage" NAME="linshi Coverage Results" MODIFIED="1521799082605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/spider_wnw$cook.coverage" NAME="cook Coverage Results" MODIFIED="1523762105795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tt" />
-    <SUITE FILE_PATH="coverage/spider_wnw$twitter_spider__1_.coverage" NAME="twitter_spider (1) Coverage Results" MODIFIED="1524108556066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tt" />
+    <SUITE FILE_PATH="coverage/spider_wnw$twitter_spider__1_.coverage" NAME="twitter_spider (1) Coverage Results" MODIFIED="1524204870554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tt" />
+    <SUITE FILE_PATH="coverage/spider_wnw$requesthtml.coverage" NAME="requesthtml Coverage Results" MODIFIED="1524204493841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider_wnw$main_gaodedingwei.coverage" NAME="main_gaodedingwei Coverage Results" MODIFIED="1523520697321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/高德坐标定位模块4-12/gao_zuobiao_4_12" />
     <SUITE FILE_PATH="coverage/spider_wnw$romandika_spider.coverage" NAME="romandika_spider Coverage Results" MODIFIED="1522410667621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$newamap_spider.coverage" NAME="newamap_spider Coverage Results" MODIFIED="1522325598182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
@@ -75,7 +81,7 @@
     <SUITE FILE_PATH="coverage/spider_wnw$rb_spider.coverage" NAME="rb_spider Coverage Results" MODIFIED="1522135631294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$sharp_spider.coverage" NAME="sharp_spider Coverage Results" MODIFIED="1522138336512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$json_to_mysql.coverage" NAME="json_to_mysql Coverage Results" MODIFIED="1522029111124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/spider_wnw$new_amap_spider.coverage" NAME="new_amap_spider Coverage Results" MODIFIED="1524105839371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/spider_wnw$new_amap_spider.coverage" NAME="new_amap_spider Coverage Results" MODIFIED="1524205337559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$monalisa_save.coverage" NAME="monalisa_save Coverage Results" MODIFIED="1520835131039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$linshi3.coverage" NAME="linshi3 Coverage Results" MODIFIED="1521799985348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
   </component>
@@ -93,11 +99,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="new_amap_spider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="new_amap_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider/new_amap_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="435" column="26" lean-forward="false" selection-start-line="435" selection-start-column="26" selection-end-line="435" selection-end-column="26" />
+            <state relative-caret-position="-1026">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding>
                 <element signature="e#456#31827#0" expanded="false" />
                 <element signature="e#33084#33423#0" expanded="false" />
@@ -106,17 +112,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twitter_spider.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="requesthtml.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requesthtml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twitter_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tt/twitter_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4833">
-              <caret line="276" column="0" lean-forward="true" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
               <folding>
-                <element signature="e#3975#4034#0" expanded="false" />
-                <element signature="e#6745#6786#0" expanded="false" />
-                <element signature="e#6997#7030#0" expanded="false" />
-                <element signature="e#7884#8903#0" expanded="false" />
-                <element signature="e#7884#7889#0" expanded="false" />
+                <element signature="e#131#146#0" expanded="true" />
+                <element signature="e#2381#2434#0" expanded="false" />
+                <element signature="e#4661#4720#0" expanded="false" />
+                <element signature="e#7467#7508#0" expanded="false" />
+                <element signature="e#7719#7752#0" expanded="false" />
+                <element signature="e#9066#10085#0" expanded="false" />
+                <element signature="e#9066#9071#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -171,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spider/arrowceramic_spider.py" />
         <option value="$PROJECT_DIR$/data/gani.json" />
         <option value="$PROJECT_DIR$/spider/gani_spider.py" />
         <option value="$PROJECT_DIR$/spider/imola_spider.py" />
@@ -213,15 +230,16 @@
         <option value="$PROJECT_DIR$/spider/shop_spider_coomo.py" />
         <option value="$PROJECT_DIR$/data/new_coomo3.json" />
         <option value="$PROJECT_DIR$/data/save.py" />
-        <option value="$PROJECT_DIR$/spider/mongo2mysql.py" />
         <option value="$PROJECT_DIR$/tt/newest_id.txt" />
         <option value="$PROJECT_DIR$/utils/get_region_id.py" />
         <option value="$PROJECT_DIR$/five.py" />
-        <option value="$PROJECT_DIR$/tt/twitter_spider.py" />
-        <option value="$PROJECT_DIR$/spider/new_amap_spider.py" />
         <option value="$PROJECT_DIR$/TaiGoods/TaiGoods/spiders/tai.py" />
         <option value="$PROJECT_DIR$/TaiGoods/ToMySql/one.py" />
         <option value="$PROJECT_DIR$/TaiGoods/wenjian/tai_goods4-18.sql" />
+        <option value="$PROJECT_DIR$/spider/mongo2mysql.py" />
+        <option value="$PROJECT_DIR$/requesthtml.py" />
+        <option value="$PROJECT_DIR$/spider/new_amap_spider.py" />
+        <option value="$PROJECT_DIR$/tt/twitter_spider.py" />
       </list>
     </option>
   </component>
@@ -232,8 +250,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="302" />
-    <option name="y" value="72" />
+    <option name="x" value="214" />
+    <option name="y" value="26" />
     <option name="width" value="1519" />
     <option name="height" value="943" />
   </component>
@@ -322,7 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.twitter_spider (1)">
+  <component name="RunManager" selected="Python.new_amap_spider">
     <configuration name="five" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,25 +355,6 @@
       <module name="spider_wnw" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/five.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="get_region_id" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spider_wnw" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/get_region_id.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,6 +398,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="requesthtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="spider_wnw" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requesthtml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="twitter_spider (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,16 +440,16 @@
       <item index="0" class="java.lang.String" itemvalue="Python.new_amap_spider" />
       <item index="1" class="java.lang.String" itemvalue="Python.twitter_spider (1)" />
       <item index="2" class="java.lang.String" itemvalue="Python.five" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_region_id" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.requesthtml" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.twitter_spider (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.new_amap_spider" />
-        <item index="3" class="java.lang.String" itemvalue="Python.five" />
-        <item index="4" class="java.lang.String" itemvalue="Python.get_region_id" />
+        <item index="0" class="java.lang.String" itemvalue="Python.new_amap_spider" />
+        <item index="1" class="java.lang.String" itemvalue="Python.twitter_spider (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.requesthtml" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+        <item index="4" class="java.lang.String" itemvalue="Python.five" />
       </list>
     </recent_temporary>
   </component>
@@ -499,18 +517,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="72" width="1519" height="943" extended-state="0" />
+    <frame x="214" y="26" width="1519" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4257642" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3930131" sideWeight="0.50533617" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5691158" sideWeight="0.49786553" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24533" sideWeight="0.4948718" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40473226" sideWeight="0.49466383" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5678705" sideWeight="0.49786553" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2988792" sideWeight="0.4948718" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25529265" sideWeight="0.49466383" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29166666" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46201745" sideWeight="0.5051282" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18119423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27074236" sideWeight="0.5051282" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14481811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986537" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986537" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -626,58 +644,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/new_coomo3.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="0" column="780" lean-forward="false" selection-start-line="0" selection-start-column="780" selection-end-line="0" selection-end-column="780" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/shop_spider_coomo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
-          <caret line="119" column="25" lean-forward="false" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/coomo3.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/add_detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2020">
-          <caret line="27" column="27" lean-forward="false" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/save.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt/ghostdriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/spider/Lib/site-packages/selenium/webdriver/common/service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt/pics/984631073865953280.png" />
-    <entry file="file://$PROJECT_DIR$/tt/pics/984759315046322177.png" />
-    <entry file="file://$PROJECT_DIR$/tt/pics/984763579210633216.png" />
     <entry file="file://$PROJECT_DIR$/tt/pics/984767560494313472.png" />
     <entry file="file://$PROJECT_DIR$/tt/pics/984967457315139586.png" />
     <entry file="file://$PROJECT_DIR$/tt/pics/984877999718895616.png" />
@@ -856,6 +822,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spider/mongo2mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="e#1897#1930#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tt/newest_id.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -864,37 +840,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/mongo2mysql.py">
+    <entry file="file://$PROJECT_DIR$/tt/pics/987066289855303681.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt/pics/987065049566138375.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt/pics/986979039670931458.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt/pics/986988633822412800.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt/pics/986994992177561600.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt/pics/987003860882526208.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt/pics/987036458648199168.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tt/pics/987173366401585155.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/new_amap_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="84" column="33" lean-forward="false" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+        <state relative-caret-position="-1026">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
           <folding>
-            <element signature="e#1726#1759#0" expanded="false" />
+            <element signature="e#456#31827#0" expanded="false" />
+            <element signature="e#33084#33423#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requesthtml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/spider/Lib/site-packages/requests_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="410" column="53" lean-forward="false" selection-start-line="410" selection-start-column="42" selection-end-line="410" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tt/twitter_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4833">
-          <caret line="276" column="0" lean-forward="true" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
           <folding>
-            <element signature="e#3975#4034#0" expanded="false" />
-            <element signature="e#6745#6786#0" expanded="false" />
-            <element signature="e#6997#7030#0" expanded="false" />
-            <element signature="e#7884#8903#0" expanded="false" />
-            <element signature="e#7884#7889#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/new_amap_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="435" column="26" lean-forward="false" selection-start-line="435" selection-start-column="26" selection-end-line="435" selection-end-column="26" />
-          <folding>
-            <element signature="e#456#31827#0" expanded="false" />
-            <element signature="e#33084#33423#0" expanded="false" />
+            <element signature="e#131#146#0" expanded="true" />
+            <element signature="e#2381#2434#0" expanded="false" />
+            <element signature="e#4661#4720#0" expanded="false" />
+            <element signature="e#7467#7508#0" expanded="false" />
+            <element signature="e#7719#7752#0" expanded="false" />
+            <element signature="e#9066#10085#0" expanded="false" />
+            <element signature="e#9066#9071#0" expanded="false" />
           </folding>
         </state>
       </provider>
