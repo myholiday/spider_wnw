@@ -4,16 +4,9 @@
     <list id="343f39ad-9954-4fa3-a6b7-1260240727c9" name="Revert: 完成创维原始数据爬取，记得修改todo" comment="取消log日志，添加排除关键词功能" />
     <list id="d5808a2e-9d23-4853-b5b9-c64ec7e17982" name="Revert: 修复add_detail是否从官网获取bug，完成&quot;" comment="Revert: 修复add_detail是否从官网获取bug，完成&quot;" />
     <list default="true" id="8a07905b-ccdd-4546-ae6b-c57ba4e81f81" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/haier.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spider/atgetco_spider.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spider/gaiyi_spider.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tmp/myt.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tmp/看重名区.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/data/log.txt" afterPath="$PROJECT_DIR$/data/log.txt" />
       <change beforePath="$PROJECT_DIR$/spider/mongo2mysql.py" afterPath="$PROJECT_DIR$/spider/mongo2mysql.py" />
-      <change beforePath="$PROJECT_DIR$/spider/new_amap_spider.py" afterPath="$PROJECT_DIR$/spider/new_amap_spider.py" />
+      <change beforePath="$PROJECT_DIR$/utils/get_region_id.py" afterPath="$PROJECT_DIR$/utils/get_region_id.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +29,7 @@
     <SUITE FILE_PATH="coverage/spider_wnw$roen_spider.coverage" NAME="roen_spider Coverage Results" MODIFIED="1522130279100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$linshi2.coverage" NAME="linshi2 Coverage Results" MODIFIED="1521792614248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
     <SUITE FILE_PATH="coverage/spider_wnw$twitter_spider.coverage" NAME="twitter_spider Coverage Results" MODIFIED="1523345872782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
-    <SUITE FILE_PATH="coverage/spider_wnw$.coverage" NAME="看重名区 Coverage Results" MODIFIED="1525939642461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tmp" />
+    <SUITE FILE_PATH="coverage/spider_wnw$.coverage" NAME="看重名区 Coverage Results" MODIFIED="1525950679957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tmp" />
     <SUITE FILE_PATH="coverage/spider_wnw$lxwy_spider.coverage" NAME="lxwy_spider Coverage Results" MODIFIED="1525427445338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$get_region_id.coverage" NAME="get_region_id Coverage Results" MODIFIED="1524041707221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/spider_wnw$meidi_spider.coverage" NAME="meidi_spider Coverage Results" MODIFIED="1521097802517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
@@ -53,7 +46,7 @@
     <SUITE FILE_PATH="coverage/spider_wnw$imola_spider.coverage" NAME="imola_spider Coverage Results" MODIFIED="1522117683202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$pigrol_spider.coverage" NAME="pigrol_spider Coverage Results" MODIFIED="1522479923786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$spider_monalisa.coverage" NAME="spider_monalisa Coverage Results" MODIFIED="1523171438696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/spider_wnw$mongo2mysql.coverage" NAME="mongo2mysql Coverage Results" MODIFIED="1525940295789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/spider_wnw$mongo2mysql.coverage" NAME="mongo2mysql Coverage Results" MODIFIED="1526003633903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$champion_tile_spider.coverage" NAME="champion-tile_spider Coverage Results" MODIFIED="1522118612101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$dongpengjieju_spider.coverage" NAME="dongpengjieju_spider Coverage Results" MODIFIED="1522141977724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/spider_wnw$123.coverage" NAME="123 Coverage Results" MODIFIED="1522312896939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
@@ -158,40 +151,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mongo2mysql.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mongo2mysql.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider/mongo2mysql.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1782">
-              <caret line="123" column="26" lean-forward="false" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
+            <state relative-caret-position="1244">
+              <caret line="137" column="42" lean-forward="true" selection-start-line="137" selection-start-column="42" selection-end-line="137" selection-end-column="42" />
               <folding>
-                <element signature="e#2592#2625#0" expanded="false" />
-                <marker date="1525940442082" expanded="true" signature="718:763" ph="SELECT `logo... feigo_brands" />
-                <marker date="1525940442082" expanded="true" signature="718:765" ph="SELECT `logo... feigo_brands" />
+                <element signature="e#132#146#0" expanded="true" />
+                <element signature="e#5674#5707#0" expanded="false" />
+                <marker date="1526003228094" expanded="true" signature="743:788" ph="SELECT `logo... feigo_brands" />
+                <marker date="1526003228094" expanded="true" signature="743:790" ph="SELECT `logo... feigo_brands" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_region_id.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="get_region_id.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/utils/get_region_id.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="36" />
+            <state relative-caret-position="300">
+              <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding>
-                <marker date="1524041709791" expanded="true" signature="678:723" ph="select * fro... feigo_regions" />
-                <marker date="1524041709791" expanded="true" signature="894:933" ph="select * fro... feigo_regions" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="看重名区.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tmp/看重名区.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="74" lean-forward="true" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
-              <folding>
-                <marker date="1525939642422" expanded="true" signature="504:561" ph="SELECT `name... feigo_regions" />
+                <marker date="1526003709353" expanded="true" signature="678:723" ph="select * fro... feigo_regions" />
+                <marker date="1526003709353" expanded="true" signature="894:933" ph="select * fro... feigo_regions" />
+                <marker date="1526003709353" expanded="true" signature="1743:1786" ph="select * fro... feigo_regions" />
+                <marker date="1526003709353" expanded="true" signature="1961:2000" ph="select * fro... feigo_regions" />
               </folding>
             </state>
           </provider>
@@ -273,7 +257,6 @@
         <option value="$PROJECT_DIR$/data/new_coomo3.json" />
         <option value="$PROJECT_DIR$/data/save.py" />
         <option value="$PROJECT_DIR$/tt/newest_id.txt" />
-        <option value="$PROJECT_DIR$/utils/get_region_id.py" />
         <option value="$PROJECT_DIR$/five.py" />
         <option value="$PROJECT_DIR$/TaiGoods/TaiGoods/spiders/tai.py" />
         <option value="$PROJECT_DIR$/TaiGoods/ToMySql/one.py" />
@@ -286,7 +269,6 @@
         <option value="$PROJECT_DIR$/a.py" />
         <option value="$PROJECT_DIR$/log.txt" />
         <option value="$PROJECT_DIR$/spider/lxwy_spider.py" />
-        <option value="$PROJECT_DIR$/data/log.txt" />
         <option value="$PROJECT_DIR$/spider/gaiyi_spider.py" />
         <option value="$PROJECT_DIR$/spider/atgetco_spider.py" />
         <option value="$PROJECT_DIR$/data/atgetco.json" />
@@ -298,6 +280,8 @@
         <option value="$PROJECT_DIR$/spider/new_amap_spider.py" />
         <option value="$PROJECT_DIR$/tmp/看重名区.py" />
         <option value="$PROJECT_DIR$/spider/mongo2mysql.py" />
+        <option value="$PROJECT_DIR$/data/log.txt" />
+        <option value="$PROJECT_DIR$/utils/get_region_id.py" />
       </list>
     </option>
   </component>
@@ -307,9 +291,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
-    <option name="y" value="49" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="536" />
+    <option name="y" value="36" />
     <option name="width" value="1519" />
     <option name="height" value="1016" />
   </component>
@@ -361,6 +345,11 @@
               <item name="spider_wnw" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider_wnw" type="462c0819:PsiDirectoryNode" />
               <item name="tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_wnw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_wnw" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -580,25 +569,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="49" width="1519" height="1016" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4235808" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3930131" sideWeight="0.50533617" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69634706" sideWeight="0.49786553" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69541484" sideWeight="0.49786553" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35371178" sideWeight="0.4948718" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40502185" sideWeight="0.49466383" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30676857" sideWeight="0.49466383" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29166666" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23287672" sideWeight="0.5051282" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26012355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23253275" sideWeight="0.5051282" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2022412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986537" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25873363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986537" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14247599" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3847032" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3842795" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -701,8 +690,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/spider/mongo2mysql.py</url>
-          <line>122</line>
-          <option name="timeStamp" value="41" />
+          <line>131</line>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -712,7 +701,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="42" />
+      <option name="time" value="43" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -802,14 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="304" column="13" lean-forward="true" selection-start-line="304" selection-start-column="13" selection-end-line="304" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,27 +1002,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/get_region_id.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="36" />
-          <folding>
-            <marker date="1524041709791" expanded="true" signature="678:723" ph="select * fro... feigo_regions" />
-            <marker date="1524041709791" expanded="true" signature="894:933" ph="select * fro... feigo_regions" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp/看重名区.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="74" lean-forward="true" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
-          <folding>
-            <marker date="1525939642422" expanded="true" signature="504:561" ph="SELECT `name... feigo_regions" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tmp/myt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -1050,14 +1010,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/看重名区.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <marker date="1525939642422" expanded="true" signature="504:561" ph="SELECT `name... feigo_regions" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spider/mongo2mysql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1782">
-          <caret line="123" column="26" lean-forward="false" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
+        <state relative-caret-position="1244">
+          <caret line="137" column="42" lean-forward="true" selection-start-line="137" selection-start-column="42" selection-end-line="137" selection-end-column="42" />
           <folding>
-            <element signature="e#2592#2625#0" expanded="false" />
-            <marker date="1525940442082" expanded="true" signature="718:763" ph="SELECT `logo... feigo_brands" />
-            <marker date="1525940442082" expanded="true" signature="718:765" ph="SELECT `logo... feigo_brands" />
+            <element signature="e#132#146#0" expanded="true" />
+            <element signature="e#5674#5707#0" expanded="false" />
+            <marker date="1526003228094" expanded="true" signature="743:788" ph="SELECT `logo... feigo_brands" />
+            <marker date="1526003228094" expanded="true" signature="743:790" ph="SELECT `logo... feigo_brands" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/get_region_id.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <marker date="1526003709353" expanded="true" signature="678:723" ph="select * fro... feigo_regions" />
+            <marker date="1526003709353" expanded="true" signature="894:933" ph="select * fro... feigo_regions" />
+            <marker date="1526003709353" expanded="true" signature="1743:1786" ph="select * fro... feigo_regions" />
+            <marker date="1526003709353" expanded="true" signature="1961:2000" ph="select * fro... feigo_regions" />
           </folding>
         </state>
       </provider>
