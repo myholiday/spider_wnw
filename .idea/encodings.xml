@@ -24,6 +24,7 @@
     <file url="file://$PROJECT_DIR$/data/skyworth.json" charset="GBK" />
     <file url="file://$PROJECT_DIR$/data/yulan.json" charset="GBK" />
     <file url="file://$PROJECT_DIR$/data/yulan_detail.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/大众点评商区/居然之家数据.json" charset="GBK" />
     <file url="file://$PROJECT_DIR$/大众点评商区/第二次更新region经纬度.sql" charset="GBK" />
     <file url="file://$PROJECT_DIR$/大众点评商区/红星美凯龙数据.json" charset="GBK" />
   </component>
