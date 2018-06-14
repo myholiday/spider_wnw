@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list id="343f39ad-9954-4fa3-a6b7-1260240727c9" name="Revert: 完成创维原始数据爬取，记得修改todo" comment="取消log日志，添加排除关键词功能" />
     <list id="d5808a2e-9d23-4853-b5b9-c64ec7e17982" name="Revert: 修复add_detail是否从官网获取bug，完成&quot;" comment="Revert: 修复add_detail是否从官网获取bug，完成&quot;" />
-    <list default="true" id="8a07905b-ccdd-4546-ae6b-c57ba4e81f81" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/tmp/冒泡.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大众点评商区/amap2baidu_coord.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/大众点评商区/红星美凯龙爬取地址.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8a07905b-ccdd-4546-ae6b-c57ba4e81f81" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,19 +125,19 @@
       <file leaf-file-name="更新商圈高德坐标为百度坐标.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/大众点评商区/更新商圈高德坐标为百度坐标.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="652">
+              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding>
                 <element signature="e#133#147#0" expanded="true" />
-                <marker date="1528956374357" expanded="true" signature="535:635" ph="select `id`,... feigo_regions" />
-                <marker date="1528956374357" expanded="true" signature="1716:1791" ph="UPDATE `feigo_regions`... " />
-                <marker date="1528956374357" expanded="true" signature="1716:1793" ph="UPDATE `feigo_regions`... " />
+                <marker date="1528958231516" expanded="true" signature="535:635" ph="select `id`,... feigo_regions" />
+                <marker date="1528958231516" expanded="true" signature="1708:1783" ph="UPDATE `feigo_regions`... " />
+                <marker date="1528958231516" expanded="true" signature="1708:1785" ph="UPDATE `feigo_regions`... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="红星美凯龙爬取地址.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="红星美凯龙爬取地址.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/大众点评商区/红星美凯龙爬取地址.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -155,7 +149,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="红星美凯龙数据.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="红星美凯龙数据.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/大众点评商区/红星美凯龙数据.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -265,8 +259,8 @@
         <option value="$PROJECT_DIR$/大众点评商区/根据高德直接搜索修改商圈坐标.py" />
         <option value="$PROJECT_DIR$/tmp/冒泡.html" />
         <option value="$PROJECT_DIR$/大众点评商区/amap2baidu_coord.sql" />
-        <option value="$PROJECT_DIR$/大众点评商区/更新商圈高德坐标为百度坐标.py" />
         <option value="$PROJECT_DIR$/大众点评商区/红星美凯龙爬取地址.py" />
+        <option value="$PROJECT_DIR$/大众点评商区/更新商圈高德坐标为百度坐标.py" />
       </list>
     </option>
   </component>
@@ -552,16 +546,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1962" y="34" width="1828" height="1020" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4235808" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42961165" sideWeight="0.5078979" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34318182" sideWeight="0.49786553" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27838427" sideWeight="0.4948718" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42613637" sideWeight="0.49210206" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42613637" sideWeight="0.49210206" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29166666" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35113636" sideWeight="0.5051282" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12967157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35113636" sideWeight="0.5051282" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21234427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32788944" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986537" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20795454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1085,14 +1080,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/大众点评商区/更新商圈高德坐标为百度坐标.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="652">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding>
             <element signature="e#133#147#0" expanded="true" />
-            <marker date="1528956374357" expanded="true" signature="535:635" ph="select `id`,... feigo_regions" />
-            <marker date="1528956374357" expanded="true" signature="1716:1791" ph="UPDATE `feigo_regions`... " />
-            <marker date="1528956374357" expanded="true" signature="1716:1793" ph="UPDATE `feigo_regions`... " />
+            <marker date="1528958231516" expanded="true" signature="535:635" ph="select `id`,... feigo_regions" />
+            <marker date="1528958231516" expanded="true" signature="1708:1783" ph="UPDATE `feigo_regions`... " />
+            <marker date="1528958231516" expanded="true" signature="1708:1785" ph="UPDATE `feigo_regions`... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大众点评商区/红星美凯龙数据.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="66" lean-forward="false" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,14 +1106,6 @@
           <folding>
             <element signature="e#133#153#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/大众点评商区/红星美凯龙数据.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="66" lean-forward="false" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
