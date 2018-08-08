@@ -1,0 +1,1 @@
+#!/usr/bin/env python# -*- coding: utf-8 -*-# Created by spider3 on 2018/8/1# Copyright (c) 2018 spider3. All rights reserved.from requests_html import HTMLSessiondef main():    session = HTMLSession()    r = session.get('https://python.org/')    about = r.html.find('#about', first=True)    print(about.text)if __name__ == '__main__':    main()
